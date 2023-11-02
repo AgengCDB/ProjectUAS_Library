@@ -1,0 +1,128 @@
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ProjectUAS.exe
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.csproj.AssemblyReference.cache
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormDaftarBuku.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormInputBuku.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormInputUser.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormLogin.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormMenu.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormPeminjaman.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormPengembalian.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.FormStaff.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.Properties.Resources.resources
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.csproj.GenerateResource.cache
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfoInputs.cache
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfo.cs
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.csproj.CoreCompileInputs.cache
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.csproj.CopyComplete
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ProjectUAS.deps.json
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ProjectUAS.runtimeconfig.json
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS4\bin\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS4\obj\Debug\net6.0-windows\ProjectUAS.genruntimeconfig.cache
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.exe
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.deps.json
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.runtimeconfig.json
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.AssemblyReference.cache
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormDaftarBuku.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputBuku.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputUser.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormLogin.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormMenu.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPeminjaman.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPengembalian.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormStaff.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.Properties.Resources.resources
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.GenerateResource.cache
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfoInputs.cache
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfo.cs
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CoreCompileInputs.cache
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CopyComplete
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.genruntimeconfig.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.exe
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.deps.json
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.runtimeconfig.json
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.pdb
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.AssemblyReference.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormDaftarBuku.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputBuku.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputUser.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormLogin.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormMenu.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPeminjaman.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPengembalian.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormStaff.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.Properties.Resources.resources
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.GenerateResource.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfoInputs.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfo.cs
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CoreCompileInputs.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CopyComplete
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\refint\ProjectUAS.dll
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.pdb
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.genruntimeconfig.cache
+D:\Kuliah Semester 2\[DS] Database Systems\Tugas\UAS\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.exe
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.deps.json
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.runtimeconfig.json
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.AssemblyReference.cache
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormDaftarBuku.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputBuku.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormInputUser.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormLogin.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormMenu.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPeminjaman.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormPengembalian.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.FormStaff.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.Properties.Resources.resources
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.GenerateResource.cache
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfoInputs.cache
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.AssemblyInfo.cs
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CoreCompileInputs.cache
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.csproj.CopyComplete
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ref\ProjectUAS.dll
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.pdb
+C:\ProjekUAS\ProjectUAS_Library3\ProjectUAS_Library\ProjectUAS5\obj\Debug\net6.0-windows\ProjectUAS.genruntimeconfig.cache
